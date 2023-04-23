@@ -1,0 +1,747 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 9570
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 18 Tf
+20.6999999999999993 TL
+0 g
+39.6850393700787407 779.5277952755905062 Td
+(AWS Security Checklist Report) Tj
+ET
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - S3) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 93.4347608670720149 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+133.4347608670720149 728.5041732283464171 421.8452391329279294 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+138.4347608670719865 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 93.4347608670720149 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Enable versioning) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 707.0041732283464171 421.8452391329279294 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 693.5041732283464171 Td
+(Enable versioning for your S3 buckets to protect against accidental deletion or overwrite.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 685.5041732283465308 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 672.0041732283464171 Td
+(Enable encryption) Tj
+T* (in S3) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 685.5041732283465308 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 672.0041732283464171 Td
+(Enable encryption for your S3 buckets to protect against unauthorized access to your data at) Tj
+T* (rest.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 652.5041732283464171 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 639.0041732283464171 Td
+(Create IAM) Tj
+T* (policies) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 652.5041732283464171 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 639.0041732283464171 Td
+(Use IAM policies to control access to your S3 buckets and objects.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 619.5041732283464171 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 606.0041732283464171 Td
+(Enable object lock) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 619.5041732283464171 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 606.0041732283464171 Td
+(Enable object lock to prevent objects from being deleted or overwritten for a defined retention) Tj
+T* (period.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 586.5041732283464171 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 573.0041732283464171 Td
+(Enable bucket) Tj
+T* (logging) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 586.5041732283464171 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 573.0041732283464171 Td
+(Enable access logging on your S3 buckets to monitor and analyze access patterns and) Tj
+T* (identify potential security risks.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 553.5041732283464171 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 540.0041732283464171 Td
+(Enable CloudTrail) Tj
+T* (integration) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 553.5041732283464171 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 540.0041732283464171 Td
+(Integrate your S3 buckets with AWS CloudTrail to capture and store data events for auditing) Tj
+T* (and compliance purposes.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 520.5041732283464171 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 507.0041732283464171 Td
+(Enable AWS) Tj
+T* (Config) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 520.5041732283464171 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 507.0041732283464171 Td
+(Enable AWS Config to continuously monitor and record your S3 bucket configurations and) Tj
+T* (evaluate them against best practices.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 487.5041732283464171 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 474.0041732283464171 Td
+(Set up S3 event) Tj
+T* (notifications) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 487.5041732283464171 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 474.0041732283464171 Td
+(Configure S3 event notifications to send messages when specific events occur in your S3) Tj
+T* (buckets, such as object creation or deletion.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 454.5041732283464171 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 441.0041732283464739 Td
+(Implement bucket) Tj
+T* (policies) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 454.5041732283464171 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 441.0041732283464739 Td
+(Use S3 bucket policies to manage permissions at the bucket level, controlling access to all) Tj
+T* (objects within a bucket.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 421.5041732283464739 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 408.0041732283465308 Td
+(Set up CORS) Tj
+T* (configurations) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 421.5041732283464739 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 408.0041732283465308 Td
+(Configure Cross-Origin Resource Sharing \(CORS\) to control which origins can access your) Tj
+T* (S3 buckets and objects.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 388.5041732283465308 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 375.0041732283465308 Td
+(Enable MFA) Tj
+T* (Delete) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 388.5041732283465308 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 375.0041732283465308 Td
+(Enable Multi-Factor Authentication \(MFA\) Delete to require additional authentication when) Tj
+T* (deleting objects or changing bucket versioning settings.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 355.5041732283465308 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 342.0041732283465876 Td
+(Enable transfer) Tj
+T* (acceleration) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 355.5041732283465308 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 342.0041732283465876 Td
+(Enable S3 Transfer Acceleration to improve data transfer speed and reduce latency for your) Tj
+T* (S3 buckets.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 322.5041732283465876 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 309.0041732283466445 Td
+(Implement bucket) Tj
+T* (tagging) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 322.5041732283465876 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 309.0041732283466445 Td
+(Use bucket tagging to organize and manage your S3 buckets and enable cost allocation) Tj
+T* (tracking.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 289.5041732283466445 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 276.0041732283466445 Td
+(Configure lifecycle) Tj
+T* (policies) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 289.5041732283466445 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 276.0041732283466445 Td
+(Set up lifecycle policies to automate the management of objects in your S3 buckets, such as) Tj
+T* (transitioning objects to different storage classes or deleting objects.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 256.5041732283466445 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 243.0041732283467582 Td
+(Implement public) Tj
+T* (access blocking) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 256.5041732283466445 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 243.0041732283467582 Td
+(Use S3 Block Public Access settings to prevent public access to your S3 buckets and objects.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 223.5041732283467013 93.4347608670720149 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 210.0041732283467582 Td
+(Use VPC) Tj
+T* (endpoints) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+133.4347608670720149 223.5041732283467013 421.8452391329279294 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+138.4347608670719865 210.0041732283467582 Td
+(Create VPC endpoints for Amazon S3 to securely access your buckets over a private network) Tj
+T* (connection.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.5.1)
+/CreationDate (D:20230423112912+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000009973 00000 n 
+0000011790 00000 n 
+0000000015 00000 n 
+0000000351 00000 n 
+0000010030 00000 n 
+0000010155 00000 n 
+0000010285 00000 n 
+0000010418 00000 n 
+0000010555 00000 n 
+0000010678 00000 n 
+0000010807 00000 n 
+0000010939 00000 n 
+0000011075 00000 n 
+0000011203 00000 n 
+0000011330 00000 n 
+0000011459 00000 n 
+0000011592 00000 n 
+0000011694 00000 n 
+0000012038 00000 n 
+0000012124 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <39C09AFAC0B93F918A2074686C961CDC> <39C09AFAC0B93F918A2074686C961CDC> ]
+>>
+startxref
+12228
+%%EOF

@@ -1,0 +1,593 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 7199
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 18 Tf
+20.6999999999999993 TL
+0 g
+39.6850393700787407 779.5277952755905062 Td
+(AWS Security Checklist Report) Tj
+ET
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - AWS Elastic Beanstalk) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 127.6861996422183836 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+167.6861996422183836 728.5041732283464171 387.5938003577815039 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+172.6861996422183552 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 127.6861996422183836 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Use IAM roles to control) Tj
+T* (access to AWS Elastic) Tj
+T* (Beanstalk resources) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+167.6861996422183836 707.0041732283464171 387.5938003577815039 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+172.6861996422183552 693.5041732283464171 Td
+(Using IAM roles enables you to control which users and applications have access to) Tj
+T* (AWS Elastic Beanstalk resources and what actions they can perform.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 662.5041732283464171 127.6861996422183836 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 649.0041732283464171 Td
+(Encrypt data in transit and) Tj
+T* (at rest) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+167.6861996422183836 662.5041732283464171 387.5938003577815039 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+172.6861996422183552 649.0041732283464171 Td
+(Encrypting data in transit and at rest helps protect sensitive information from) Tj
+T* (interception and unauthorized access.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 629.5041732283464171 127.6861996422183836 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 616.0041732283464171 Td
+(Limit network access to) Tj
+T* (Elastic Beanstalk) Tj
+T* (resources) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+167.6861996422183836 629.5041732283464171 387.5938003577815039 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+172.6861996422183552 616.0041732283464171 Td
+(Limiting network access helps prevent unauthorized access and limits the impact of) Tj
+T* (security breaches.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 585.0041732283465308 127.6861996422183836 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 571.5041732283464171 Td
+(Enable logging and) Tj
+T* (monitoring) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+167.6861996422183836 585.0041732283465308 387.5938003577815039 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+172.6861996422183552 571.5041732283464171 Td
+(Logging and monitoring enable you to detect and respond to security incidents and) Tj
+T* (other issues affecting your Elastic Beanstalk environments.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 552.0041732283464171 127.6861996422183836 -56. re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 538.5041732283464171 Td
+(Regularly update your) Tj
+T* (Elastic Beanstalk) Tj
+T* (environments and their) Tj
+T* (components) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+167.6861996422183836 552.0041732283464171 387.5938003577815039 -56. re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+172.6861996422183552 538.5041732283464171 Td
+(Regularly updating your Elastic Beanstalk environments and their components helps) Tj
+T* (ensure that security vulnerabilities are addressed and that you are using the latest) Tj
+T* (features and functionality.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 496.0041732283464739 127.6861996422183836 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 482.5041732283464739 Td
+(Implement function-level) Tj
+T* (access control) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+167.6861996422183836 496.0041732283464739 387.5938003577815039 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+172.6861996422183552 482.5041732283464739 Td
+(Use AWS Identity and Access Management \(IAM\) policies to control access to your) Tj
+T* (Elastic Beanstalk environments. Restrict access to only the actions and resources) Tj
+T* (that are necessary for the environment to perform its intended actions.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 451.5041732283464171 127.6861996422183836 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 438.0041732283464739 Td
+(Implement secure) Tj
+T* (deployment practices) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+167.6861996422183836 451.5041732283464171 387.5938003577815039 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+172.6861996422183552 438.0041732283464739 Td
+(Implementing secure deployment practices helps ensure that your Elastic Beanstalk) Tj
+T* (environments are deployed securely and that your applications are not vulnerable to) Tj
+T* (security breaches.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 407.0041732283464171 127.6861996422183836 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 393.5041732283464171 Td
+(Use WAF to protect) Tj
+T* (against web-based attacks) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+167.6861996422183836 407.0041732283464171 387.5938003577815039 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+172.6861996422183552 393.5041732283464171 Td
+(AWS WAF \(Web Application Firewall\) can be used to protect against common) Tj
+T* (web-based attacks such as SQL injection and cross-site scripting.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 374.0041732283464171 127.6861996422183836 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 360.5041732283464739 Td
+(Implement access and) Tj
+T* (authentication controls for) Tj
+T* (applications) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+167.6861996422183836 374.0041732283464171 387.5938003577815039 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+172.6861996422183552 360.5041732283464739 Td
+(Implementing access and authentication controls for your applications helps ensure) Tj
+T* (that only authorized users can access sensitive information or perform privileged) Tj
+T* (actions.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 329.5041732283464171 127.6861996422183836 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 316.0041732283464171 Td
+(Implement data protection) Tj
+T* (controls for applications) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+167.6861996422183836 329.5041732283464171 387.5938003577815039 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+172.6861996422183552 316.0041732283464171 Td
+(Implementing data protection controls for your applications helps ensure that sensitive) Tj
+T* (information is protected from unauthorized access or disclosure.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.5.1)
+/CreationDate (D:20230423112646+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000007602 00000 n 
+0000009419 00000 n 
+0000000015 00000 n 
+0000000351 00000 n 
+0000007659 00000 n 
+0000007784 00000 n 
+0000007914 00000 n 
+0000008047 00000 n 
+0000008184 00000 n 
+0000008307 00000 n 
+0000008436 00000 n 
+0000008568 00000 n 
+0000008704 00000 n 
+0000008832 00000 n 
+0000008959 00000 n 
+0000009088 00000 n 
+0000009221 00000 n 
+0000009323 00000 n 
+0000009667 00000 n 
+0000009753 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <473E11A38C6F376459A38F2DC5DAFA7A> <473E11A38C6F376459A38F2DC5DAFA7A> ]
+>>
+startxref
+9857
+%%EOF

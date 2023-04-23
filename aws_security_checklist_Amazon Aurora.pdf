@@ -1,0 +1,498 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5104
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 18 Tf
+20.6999999999999993 TL
+0 g
+39.6850393700787407 779.5277952755905062 Td
+(AWS Security Checklist Report) Tj
+ET
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - Amazon Aurora) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 152.7267202859697477 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+192.7267202859697761 728.5041732283464171 362.5532797140301682 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+197.7267202859697477 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 152.7267202859697477 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Encrypt data at rest) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+192.7267202859697761 707.0041732283464171 362.5532797140301682 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+197.7267202859697477 693.5041732283464171 Td
+(Encrypting your Aurora database at rest helps protect your data from) Tj
+T* (unauthorized access or disclosure in the event of theft or loss of your storage) Tj
+T* (devices.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 662.5041732283464171 152.7267202859697477 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 649.0041732283464171 Td
+(Encrypt data in transit) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+192.7267202859697761 662.5041732283464171 362.5532797140301682 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+197.7267202859697477 649.0041732283464171 Td
+(Encrypting your Aurora database connections helps protect your data from) Tj
+T* (unauthorized interception or disclosure during transmission.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 629.5041732283464171 152.7267202859697477 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 616.0041732283464171 Td
+(Use secure AWS Identity and) Tj
+T* (Access Management \(IAM\)) Tj
+T* (policies) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+192.7267202859697761 629.5041732283464171 362.5532797140301682 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+197.7267202859697477 616.0041732283464171 Td
+(Using secure IAM policies helps ensure that access to your Aurora database is) Tj
+T* (limited to authorized users and applications.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 585.0041732283465308 152.7267202859697477 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 571.5041732283464171 Td
+(Implement backup and disaster) Tj
+T* (recovery plans) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+192.7267202859697761 585.0041732283465308 362.5532797140301682 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+197.7267202859697477 571.5041732283464171 Td
+(Implementing backup and disaster recovery plans helps ensure that your Aurora) Tj
+T* (database is available and functional during a security breach or other disaster.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 552.0041732283464171 152.7267202859697477 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 538.5041732283464171 Td
+(Monitor Aurora database activity) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+192.7267202859697761 552.0041732283464171 362.5532797140301682 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+197.7267202859697477 538.5041732283464171 Td
+(Monitoring Aurora database activity helps you identify potential security issues) Tj
+T* (or anomalies in your Aurora environment.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 519.0041732283464171 152.7267202859697477 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 505.5041732283464739 Td
+(Regularly review and audit) Tj
+T* (security controls) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+192.7267202859697761 519.0041732283464171 362.5532797140301682 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+197.7267202859697477 505.5041732283464739 Td
+(Regularly reviewing and auditing security controls helps ensure that your Aurora) Tj
+T* (resources are secure and compliant with your security policies.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 486.0041732283464739 152.7267202859697477 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 472.5041732283465308 Td
+(Implement least privilege access) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+192.7267202859697761 486.0041732283464739 362.5532797140301682 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+197.7267202859697477 472.5041732283465308 Td
+(Implementing least privilege access helps ensure that users and applications) Tj
+T* (have only the minimum privileges necessary to perform their intended actions.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.5.1)
+/CreationDate (D:20230423105534+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000005507 00000 n 
+0000007324 00000 n 
+0000000015 00000 n 
+0000000351 00000 n 
+0000005564 00000 n 
+0000005689 00000 n 
+0000005819 00000 n 
+0000005952 00000 n 
+0000006089 00000 n 
+0000006212 00000 n 
+0000006341 00000 n 
+0000006473 00000 n 
+0000006609 00000 n 
+0000006737 00000 n 
+0000006864 00000 n 
+0000006993 00000 n 
+0000007126 00000 n 
+0000007228 00000 n 
+0000007572 00000 n 
+0000007658 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <6BB71E0A391137FDDF2CFE7050F2896A> <6BB71E0A391137FDDF2CFE7050F2896A> ]
+>>
+startxref
+7762
+%%EOF

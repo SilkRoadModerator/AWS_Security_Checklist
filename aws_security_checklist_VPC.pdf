@@ -1,0 +1,614 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 7452
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 18 Tf
+20.6999999999999993 TL
+0 g
+39.6850393700787407 779.5277952755905062 Td
+(AWS Security Checklist Report) Tj
+ET
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - VPC) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 122.7089019089020212 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+162.7089019089020212 728.5041732283464171 392.5710980910978947 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+167.7089019089020212 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 122.7089019089020212 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Create a VPC with) Tj
+T* (multiple subnets) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+162.7089019089020212 707.0041732283464171 392.5710980910978947 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+167.7089019089020212 693.5041732283464171 Td
+(Design your VPC with multiple subnets spread across multiple Availability Zones to) Tj
+T* (ensure high availability and fault tolerance.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 674.0041732283464171 122.7089019089020212 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 660.5041732283464171 Td
+(Use Security Groups and) Tj
+T* (Network ACLs) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+162.7089019089020212 674.0041732283464171 392.5710980910978947 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+167.7089019089020212 660.5041732283464171 Td
+(Use Security Groups and Network ACLs to define inbound and outbound traffic rules) Tj
+T* (for your VPC resources, ensuring that only necessary traffic is allowed.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 641.0041732283464171 122.7089019089020212 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 627.5041732283464171 Td
+(Implement Private and) Tj
+T* (Public Subnets) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+162.7089019089020212 641.0041732283464171 392.5710980910978947 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+167.7089019089020212 627.5041732283464171 Td
+(Segregate resources within your VPC into private and public subnets based on their) Tj
+T* (exposure to the internet. Keep critical resources in private subnets with no direct) Tj
+T* (internet access.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 596.5041732283464171 122.7089019089020212 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 583.0041732283464171 Td
+(Use NAT Gateways for) Tj
+T* (outbound traffic) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+162.7089019089020212 596.5041732283464171 392.5710980910978947 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+167.7089019089020212 583.0041732283464171 Td
+(Use NAT Gateways to allow instances in private subnets to access the internet while) Tj
+T* (still preventing inbound traffic from the internet.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 563.5041732283464171 122.7089019089020212 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 550.0041732283464171 Td
+(Use VPC Flow Logs) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+162.7089019089020212 563.5041732283464171 392.5710980910978947 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+167.7089019089020212 550.0041732283464171 Td
+(Enable VPC Flow Logs to capture information about the IP traffic going to and from) Tj
+T* (network interfaces in your VPC for monitoring and auditing purposes.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 530.5041732283465308 122.7089019089020212 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 517.0041732283464171 Td
+(Use VPC endpoints for) Tj
+T* (AWS services) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+162.7089019089020212 530.5041732283465308 392.5710980910978947 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+167.7089019089020212 517.0041732283464171 Td
+(Use VPC endpoints to privately connect your VPC to supported AWS services,) Tj
+T* (ensuring that traffic between your VPC and these services does not traverse the public) Tj
+T* (internet.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 486.0041732283464739 122.7089019089020212 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 472.5041732283465308 Td
+(Implement proper routing) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+162.7089019089020212 486.0041732283464739 392.5710980910978947 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+167.7089019089020212 472.5041732283465308 Td
+(Configure routing tables for each subnet in your VPC, ensuring that traffic is routed) Tj
+T* (only to intended destinations.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 453.0041732283465308 122.7089019089020212 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 439.5041732283465308 Td
+(Use VPN or Direct) Tj
+T* (Connect for hybrid) Tj
+T* (environments) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+162.7089019089020212 453.0041732283465308 392.5710980910978947 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+167.7089019089020212 439.5041732283465308 Td
+(If connecting your VPC to on-premises environments, use AWS VPN or Direct Connect) Tj
+T* (for secure and reliable connectivity.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 408.5041732283464739 122.7089019089020212 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 395.0041732283465308 Td
+(Periodically review) Tj
+T* (Security Groups and) Tj
+T* (Network ACLs) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+162.7089019089020212 408.5041732283464739 392.5710980910978947 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+167.7089019089020212 395.0041732283465308 Td
+(Regularly review and update your Security Groups and Network ACLs to ensure that) Tj
+T* (they continue to meet your security requirements and follow the principle of least) Tj
+T* (privilege.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 364.0041732283464739 122.7089019089020212 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 350.5041732283464739 Td
+(Encrypt sensitive data) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+162.7089019089020212 364.0041732283464739 392.5710980910978947 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+167.7089019089020212 350.5041732283464739 Td
+(Encrypt sensitive data in transit and at rest when transmitted between your VPC and) Tj
+T* (other networks, or stored within your VPC.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 331.0041732283464739 122.7089019089020212 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 317.5041732283465308 Td
+(Implement proper IAM) Tj
+T* (policies) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+162.7089019089020212 331.0041732283464739 392.5710980910978947 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+167.7089019089020212 317.5041732283465308 Td
+(Use IAM policies to control access to VPC resources and actions, ensuring that users) Tj
+T* (and applications have only the necessary permissions.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.5.1)
+/CreationDate (D:20230423112952+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000007855 00000 n 
+0000009672 00000 n 
+0000000015 00000 n 
+0000000351 00000 n 
+0000007912 00000 n 
+0000008037 00000 n 
+0000008167 00000 n 
+0000008300 00000 n 
+0000008437 00000 n 
+0000008560 00000 n 
+0000008689 00000 n 
+0000008821 00000 n 
+0000008957 00000 n 
+0000009085 00000 n 
+0000009212 00000 n 
+0000009341 00000 n 
+0000009474 00000 n 
+0000009576 00000 n 
+0000009920 00000 n 
+0000010006 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <EE5DF9F72F631D9677E19210B6B67D50> <EE5DF9F72F631D9677E19210B6B67D50> ]
+>>
+startxref
+10110
+%%EOF

@@ -1,0 +1,549 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5847
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 18 Tf
+20.6999999999999993 TL
+0 g
+39.6850393700787407 779.5277952755905062 Td
+(AWS Security Checklist Report) Tj
+ET
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - Fargate) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 114.818461538461591 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+154.8184615384615768 728.5041732283464171 400.4615384615383391 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+159.8184615384615768 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 114.818461538461591 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Use task roles) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.8184615384615768 707.0041732283464171 400.4615384615383391 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.8184615384615768 693.5041732283464171 Td
+(Assign a task role to your Fargate tasks to ensure that they have only the necessary) Tj
+T* (permissions to perform their specific functions.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 674.0041732283464171 114.818461538461591 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 660.5041732283464171 Td
+(Use VPC) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.8184615384615768 674.0041732283464171 400.4615384615383391 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.8184615384615768 660.5041732283464171 Td
+(Deploy Fargate tasks in a VPC to control network access and to restrict public access to) Tj
+T* (your resources.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 641.0041732283464171 114.818461538461591 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 627.5041732283464171 Td
+(Use security groups) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.8184615384615768 641.0041732283464171 400.4615384615383391 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.8184615384615768 627.5041732283464171 Td
+(Define security groups to control inbound and outbound traffic for your Fargate tasks and) Tj
+T* (to restrict access to only necessary ports.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 608.0041732283465308 114.818461538461591 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 594.5041732283464171 Td
+(Use IAM roles for) Tj
+T* (service accounts) Tj
+T* (\(IRSA\)) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.8184615384615768 608.0041732283465308 400.4615384615383391 -44.4999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.8184615384615768 594.5041732283464171 Td
+(Use IAM roles for service accounts \(IRSA\) to enable your pods to communicate securely) Tj
+T* (with other AWS services using IAM credentials.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 563.5041732283464171 114.818461538461591 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 550.0041732283464171 Td
+(Encrypt data at rest) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.8184615384615768 563.5041732283464171 400.4615384615383391 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.8184615384615768 550.0041732283464171 Td
+(Use encryption to protect sensitive data stored in volumes attached to Fargate tasks.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 542.0041732283464171 114.818461538461591 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 528.5041732283464171 Td
+(Encrypt data in transit) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.8184615384615768 542.0041732283464171 400.4615384615383391 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.8184615384615768 528.5041732283464171 Td
+(Use encryption to protect data in transit between Fargate tasks and other AWS services) Tj
+T* (or external endpoints.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 509.0041732283464171 114.818461538461591 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 495.5041732283464739 Td
+(Monitor container) Tj
+T* (images) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.8184615384615768 509.0041732283464171 400.4615384615383391 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.8184615384615768 495.5041732283464739 Td
+(Regularly scan and monitor container images for vulnerabilities and keep them up to) Tj
+T* (date to reduce the risk of exploits.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 476.0041732283464739 114.818461538461591 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 462.5041732283465308 Td
+(Enable logging) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.8184615384615768 476.0041732283464739 400.4615384615383391 -21.4999999999999964 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.8184615384615768 462.5041732283465308 Td
+(Enable logging for your Fargate tasks to monitor and audit activity within your containers.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 454.5041732283465308 114.818461538461591 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 441.0041732283465308 Td
+(Use AWS Secrets) Tj
+T* (Manager) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.8184615384615768 454.5041732283465308 400.4615384615383391 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.8184615384615768 441.0041732283465308 Td
+(Use AWS Secrets Manager to securely store and manage sensitive data such as) Tj
+T* (passwords, API keys, and other credentials used by your Fargate tasks.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.5.1)
+/CreationDate (D:20230423112711+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000006250 00000 n 
+0000008067 00000 n 
+0000000015 00000 n 
+0000000351 00000 n 
+0000006307 00000 n 
+0000006432 00000 n 
+0000006562 00000 n 
+0000006695 00000 n 
+0000006832 00000 n 
+0000006955 00000 n 
+0000007084 00000 n 
+0000007216 00000 n 
+0000007352 00000 n 
+0000007480 00000 n 
+0000007607 00000 n 
+0000007736 00000 n 
+0000007869 00000 n 
+0000007971 00000 n 
+0000008315 00000 n 
+0000008401 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <80A49FA32A0D3450CAE2304B7177E663> <80A49FA32A0D3450CAE2304B7177E663> ]
+>>
+startxref
+8505
+%%EOF

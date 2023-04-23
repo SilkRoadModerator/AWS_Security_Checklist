@@ -1,0 +1,742 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [346.6899999999999977 31.8771653543308275 403.1899999999999977 20.3771653543308275] /Border [0 0 0] /A <</S /URI /URI (http://www.awscheck.fyi/) >> >>
+]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 9506
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 18 Tf
+20.6999999999999993 TL
+0 g
+39.6850393700787407 779.5277952755905062 Td
+(AWS Security Checklist Report) Tj
+ET
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0. g
+39.6850393700787407 756.8506299212598378 Td
+(AWS Security Checklist - EC2) Tj
+ET
+0. G
+0.5670000000000001 w
+0. G
+0.5670000000000001 w
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+40. 728.5041732283464171 114.2841507967354318 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+45. 715.0041732283464171 Td
+(Item) Tj
+ET
+1. 0.6 0. rg
+0.78 G
+0. w
+1. 0.6 0. rg
+154.2841507967354175 728.5041732283464171 400.9958492032645267 -21.4999999999999964 re
+f
+BT
+/F2 10 Tf
+11.5 TL
+1. g
+159.2841507967354175 715.0041732283464171 Td
+(Description) Tj
+ET
+0. G
+0.5670000000000001 w
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 707.0041732283464171 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 693.5041732283464171 Td
+(Use security groups) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 707.0041732283464171 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 693.5041732283464171 Td
+(Create and configure security groups to control inbound and outbound traffic for your) Tj
+T* (EC2 instances.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 674.0041732283464171 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 660.5041732283464171 Td
+(Enable monitoring) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 674.0041732283464171 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 660.5041732283464171 Td
+(Enable CloudWatch monitoring to track the performance and status of your EC2) Tj
+T* (instances.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 641.0041732283464171 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 627.5041732283464171 Td
+(Create IAM roles) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 641.0041732283464171 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 627.5041732283464171 Td
+(Create IAM roles to manage access to your EC2 instances and assign permissions for) Tj
+T* (AWS resources and services.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 608.0041732283465308 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 594.5041732283464171 Td
+(Enable VPC Flow Logs) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 608.0041732283465308 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 594.5041732283464171 Td
+(Enable VPC Flow Logs to monitor and capture information about IP traffic going to and) Tj
+T* (from your EC2 instances in your VPC.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 575.0041732283464171 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 561.5041732283464171 Td
+(Implement Network) Tj
+T* (ACLs) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 575.0041732283464171 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 561.5041732283464171 Td
+(Use Network Access Control Lists \(NACLs\) to add an additional layer of security by) Tj
+T* (controlling traffic at the subnet level.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 542.0041732283464171 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 528.5041732283464171 Td
+(Enable AWS Config) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 542.0041732283464171 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 528.5041732283464171 Td
+(Enable AWS Config to continuously monitor and record your EC2 instances') Tj
+T* (configurations and evaluate them against best practices.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 509.0041732283464171 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 495.5041732283464739 Td
+(Encrypt EBS volumes) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 509.0041732283464171 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 495.5041732283464739 Td
+(Enable encryption for your Elastic Block Store \(EBS\) volumes to protect your data at) Tj
+T* (rest.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 476.0041732283464739 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 462.5041732283465308 Td
+(Enable instance) Tj
+T* (metadata protection) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 476.0041732283464739 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 462.5041732283465308 Td
+(Enable Instance Metadata Service Version 2 \(IMDSv2\) to protect against unauthorized) Tj
+T* (access to the instance metadata.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 443.0041732283465308 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 429.5041732283465876 Td
+(Use dedicated tenancy) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 443.0041732283465308 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 429.5041732283465876 Td
+(Use dedicated tenancy to launch EC2 instances on dedicated hardware for increased) Tj
+T* (security and compliance.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 410.0041732283465876 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 396.5041732283465876 Td
+(Enable AWS Systems) Tj
+T* (Manager) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 410.0041732283465876 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 396.5041732283465876 Td
+(Use AWS Systems Manager to manage and automate tasks on your EC2 instances,) Tj
+T* (such as patching and configuration management.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 377.0041732283465876 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 363.5041732283466445 Td
+(Regularly patch and) Tj
+T* (update) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 377.0041732283465876 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 363.5041732283466445 Td
+(Regularly apply security patches and updates to your EC2 instances and applications to) Tj
+T* (reduce vulnerabilities.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 344.0041732283466445 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 330.5041732283467013 Td
+(Implement Amazon) Tj
+T* (Inspector) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 344.0041732283466445 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 330.5041732283467013 Td
+(Use Amazon Inspector to assess the security and compliance of your EC2 instances by) Tj
+T* (identifying potential security issues.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 311.0041732283467013 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 297.5041732283467582 Td
+(Use Amazon) Tj
+T* (GuardDuty) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 311.0041732283467013 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 297.5041732283467582 Td
+(Enable Amazon GuardDuty to continuously monitor and detect threats to your EC2) Tj
+T* (instances and AWS accounts.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 278.0041732283467013 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 264.5041732283467582 Td
+(Enable Amazon Macie) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 278.0041732283467013 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 264.5041732283467582 Td
+(Use Amazon Macie to discover, classify, and protect sensitive data stored in your EC2) Tj
+T* (instances.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 245.0041732283467582 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 231.5041732283467582 Td
+(Implement AWS WAF) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 245.0041732283467582 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 231.5041732283467582 Td
+(Use AWS Web Application Firewall \(WAF\) to protect your web applications hosted on) Tj
+T* (EC2 instances from common web exploits.) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+40. 212.0041732283467866 114.2841507967354318 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+45. 198.5041732283468718 Td
+(Enable AWS Shield) Tj
+ET
+1. g
+0.78 G
+0.2834645669291339 w
+1. g
+154.2841507967354175 212.0041732283467866 400.9958492032645267 -32.9999999999999929 re
+B
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+159.2841507967354175 198.5041732283468718 Td
+(Enable AWS Shield to protect your EC2 instances from Distributed Denial of Service) Tj
+T* (\(DDoS\) attacks.) Tj
+ET
+0. G
+0.5670000000000001 w
+0.78 G
+0. w
+0. G
+0.5670000000000001 w
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+192.0899999999999466 22.6771653543306684 Td
+(This report has been generated by ) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. 0. 1. rg
+346.6899999999999977 22.6771653543306684 Td
+(awscheck.fyi) Tj
+ET
+0. G
+0.5670000000000001 w
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.5.1)
+/CreationDate (D:20230423112313+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000009909 00000 n 
+0000011726 00000 n 
+0000000015 00000 n 
+0000000351 00000 n 
+0000009966 00000 n 
+0000010091 00000 n 
+0000010221 00000 n 
+0000010354 00000 n 
+0000010491 00000 n 
+0000010614 00000 n 
+0000010743 00000 n 
+0000010875 00000 n 
+0000011011 00000 n 
+0000011139 00000 n 
+0000011266 00000 n 
+0000011395 00000 n 
+0000011528 00000 n 
+0000011630 00000 n 
+0000011974 00000 n 
+0000012060 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <78036E4489523205324D62EC43506C8A> <78036E4489523205324D62EC43506C8A> ]
+>>
+startxref
+12164
+%%EOF
